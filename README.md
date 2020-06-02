@@ -1,3 +1,3 @@
 # Snake-Game-Using-Cpp
 
-![Screenshot](snake.jpg)
+![Screenshot](snake.png)
